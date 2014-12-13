@@ -294,7 +294,7 @@ if (have_posts()) : while (have_posts()) : the_post(); ?>
 <img border='0' onClick='closeTopAds();return false;' src='<?php echo plugins_url(); ?>/pb-sticky-category-bar/images/cancel.png'  style='cursor:hand;cursor:pointer;position:absolute;top:5px;right:5px;'/>
  <div class="floatingbox">
  <ul id="tips">
- <li>Santa</li>
+ <li>First Selection</li>
  <li><a href='<?php the_permalink(); ?>' title='<?php the_title(); ?>'><?php the_title(); ?> </a></li>
  <li>	<form id="category-select" class="category-select" action="<?php echo esc_url( home_url( '/' ) ); ?>" method="get">
 
@@ -318,7 +318,7 @@ if (have_posts()) : while (have_posts()) : the_post(); ?>
 		</noscript>
 
 	</form></li>
-	<li>mmm</li>
+	<li>Fourth Selection</li>
  </ul>
  </div>
  	<div id="pbsearchform"><?php the_widget( 'WP_Widget_Search' ); ?></div>
