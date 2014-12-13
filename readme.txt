@@ -1,7 +1,7 @@
-=== WP Sticky Footer Bar ===
+=== PB Sticky Category Bar ===
 Contributors: PaliBaacsi
 Donate link: http://paulbarthmaier.com
-Tags: footer,sticky,floating,bar,stylish footer bar,wordpress footer,footer plugin,responsive,random posts,trending,wordpress,styling,engage visitors,wp floating sticky bar,wp footer,sticky footer plugin
+Tags: footer,sticky,floating,bar,stylish footer bar,wordpress footer, category,category plugin, responsive,random posts,trending,wordpress,styling,engage visitors,wp floating sticky bar,wp footer,sticky footer plugin
 Requires at least: 3.0
 Stable tag: 0.9.4
 License: GPLv2 or later
@@ -9,9 +9,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-=**WP Sticky Footer bar :**= Add a beautiful sticky floating bar at the footer of wordpress site.The bar will contain random post from selected category.
+=** PB Sticky Category bar :**= Add a sticky category bar near the footer of a WordPress site. The bar contains selection options for categories and a search bar.
 
-These days, a lot of popular blogs like wpbeginner etc are using this type of sticky footer bar. 
+These days, a lot of popular blogs like wpbeginner etc are using this type of sticky category bar. 
 
 This plugin will engage your visitors to read other articles of your blog. It will give a professional look to your blog and will also contribute to decrease bounce rate.
 
